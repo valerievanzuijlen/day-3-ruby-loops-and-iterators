@@ -7,7 +7,7 @@ def print_divider
 end
 
 def print_progress_bar
-  3.times { sleep 0.5; print "." }
+  5.times { sleep 0.5; print "." }
   puts "\n"
 end
 
